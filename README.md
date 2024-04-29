@@ -1,5 +1,7 @@
 # Tile Map Navigation Plugin
 
+![Godot 4.2](https://img.shields.io/badge/Godot-v4.2.x-%23478cbf?logo=godot-engine&logoColor=white)
+
 Godot Plugin for using Navigation2D with multiple Tile Maps and layers.
 
 Introduces a new node `TileMapNavigationRegion2D` and a new **Bake** button in the editor that uses the physics layers in the tilemaps when baking.
